@@ -18,8 +18,7 @@ This dashboard provides insights into:
 - Data Modeling
 - Dashboard Design & Storytelling
 
-## 📊 Dashboard Preview
-![Netflix Dashboard](dashboard_screenshot.png)
+
 
 ## 📁 Dataset
 - Source: Netflix demo dataset
